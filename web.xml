@@ -1,0 +1,15 @@
+.
+.
+.
+<servlet>
+<servlet-name>add</servlet-name>
+<servlet-class>FullAddress.AddServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>add</servlet-name>
+<url-pattern>/add</url-pattern>
+</servlet-mapping>
+.
+.
+.
